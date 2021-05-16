@@ -10,7 +10,7 @@ TRONかな配列をベースとして様々な拡張を施した、親指シフ�
 やまぶきR Ver. 1.11.1 で動作確認しています。 
   - やまぶきR  http://yamakey.seesaa.net/category/8364446-1.html
 
-
+  - レイアウトデータ [TRON_willow.yab](TRON_willow.yab "TRON_willow.yab")
 
 作者
   -  はなち 
